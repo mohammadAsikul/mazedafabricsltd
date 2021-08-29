@@ -2,3 +2,12 @@
 @import './includes/flex';
 @import './includes/reset';
 @import './includes/header';
+@import './includes/main_body';
+
+body{
+    background-color: lightblue;
+}
+// menu section scroll class
+.menu__scroll--gt{
+    background: rgba(0,0,0, 0.7);
+}
